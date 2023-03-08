@@ -16,4 +16,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_SUMMARY_SECRETS }}
         with:
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: ${{ yescalibur }}
