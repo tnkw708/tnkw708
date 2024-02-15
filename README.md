@@ -1,7 +1,7 @@
 ### Thanks for coming! 👋
 
 <!--
-**yescalibur/yescalibur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tnkw708/tnkw708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="left">
-  <a href="https://github.com/yescalibur/yescalibur/">
-    <img src="https://komarev.com/ghpvc/?username=yescalibur" alt="yescalibur" />
+  <a href="https://github.com/tnkw708/tnkw708/">
+    <img src="https://komarev.com/ghpvc/?username=tnkw708" alt="tnkw708" />
   </a>
-  <a href="https://github.com/yescalibur">
-    <img height="20" src="https://img.shields.io/github/followers/yescalibur?label=follow&logo=github&style=flat" />
+  <a href="https://github.com/tnkw708">
+    <img height="20" src="https://img.shields.io/github/followers/tnkw708?label=follow&logo=github&style=flat" />
   </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yescalibur)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tnkw708)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yescalibur&layout=compact&theme=tokyonight)](https://github.com/yescalibur/)
-[![yescalibur's github stats](https://github-readme-stats.vercel.app/api?username=yescalibur&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/yescalibur/)
+[![Top used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tnkw708&layout=compact&theme=tokyonight)](https://github.com/tnkw708/)
+[![tnkw708's github stats](https://github-readme-stats.vercel.app/api?username=tnkw708&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/tnkw708/)
